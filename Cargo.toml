@@ -2,6 +2,9 @@
 name = "named_vector"
 version = "0.1.0"
 edition = "2024"
+description = "Define a named vector"
+license = "MIT"
+authors = ["Lize Live <git@lize.live>"]
 
 [dependencies]
 num-traits = "0.2.19"
